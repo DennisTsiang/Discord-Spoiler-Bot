@@ -1,0 +1,11 @@
+{
+  "name": "spoiler-bot",
+  "version": "1.0.0",
+  "description": "Spoiler Bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}

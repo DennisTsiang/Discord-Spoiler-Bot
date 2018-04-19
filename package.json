@@ -7,5 +7,10 @@
     "test": "npm test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord-spoiler-bot": "^2.0.6",
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.1"
+  }
 }
